@@ -1,0 +1,22 @@
+{
+  "name": "mockjs",
+  "version": "1.0.0",
+  "description": "Type definitions for mockjs",
+  "main": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xunjianxiang/mockjs.git"
+  },
+  "keywords": [
+    "typescript",
+    "mock",
+    "mockjs",
+    "types"
+  ],
+  "author": "xunjianxiang@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xunjianxiang/mockjs/issues"
+  },
+  "homepage": "https://github.com/xunjianxiang/mockjs#readme"
+}
